@@ -1,16 +1,16 @@
 # Hello there! <img src="https://raw.githubusercontent.com/neumann-mlucas/neumann-mlucas/master/wave.gif" width="30px">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae magna tincidunt, laoreet libero et, vehicula turpis. Suspendisse dui eros, commodo vitae ipsum ut, placerat pellentesque nisi. In hac habitasse platea dictumst. Curabitur vitae massa nisi. Maecenas cursus vel elit id consequat. Nulla facilisi. Nunc vel elit sed ipsum pellentesque pretium laoreet ut magna.
 
-# &#x270d; Blog & Writing
+## &#x270d; Blog & Writing
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae magna tincidunt, laoreet libero et, vehicula turpis. Suspendisse dui eros, commodo vitae ipsum ut, placerat pellentesque nisi. In hac habitasse platea dictumst. Curabitur vitae massa nisi. Maecenas cursus vel elit id consequat. Nulla facilisi. Nunc vel elit sed ipsum pellentesque pretium laoreet ut magna.
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae magna tincidunt, laoreet libero et, vehicula turpis. Suspendisse dui eros, commodo vitae ipsum ut, placerat pellentesque nisi. In hac habitasse platea dictumst. Curabitur vitae massa nisi. Maecenas cursus vel elit id consequat. Nulla facilisi. Nunc vel elit sed ipsum pellentesque pretium laoreet ut magna.
             
-# &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae magna tincidunt, laoreet libero et, vehicula turpis. Suspendisse dui eros, commodo vitae ipsum ut, placerat pellentesque nisi. In hac habitasse platea dictumst. Curabitur vitae massa nisi. Maecenas cursus vel elit id consequat. Nulla facilisi. Nunc vel elit sed ipsum pellentesque pretium laoreet ut magna.
 
-You can find me on [![LinkedIn][1]][2].
+#### You can also find me on [![LinkedIn][1]][2].
 
 [1]: https://raw.githubusercontent.com/neumann-mlucas/neumann-mlucas/master/linkedin-3-16.png
 [2]: https://www.linkedin.com/in/lucas-mneumann/
