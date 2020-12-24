@@ -43,15 +43,6 @@
 
 > "Software is like sex: it's better when it's free" - Linus Torvalds
 
-
-
 <!--
 **neumann-mlucas/neumann-mlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![HitCount](http://hits.dwyl.com/neumann-mlucas/neumann-mlucas.svg)](http://hits.dwyl.com/neumann-mlucas/neumann-mlucas)
-
-## &#x270d; Blog & Writing
-TBA
-
-####  You can also find me on [![LinkedIn][1]][2].
-[1]: https://raw.githubusercontent.com/neumann-mlucas/neumann-mlucas/master/linkedin-3-16.png
-[2]: https://www.linkedin.com/in/lucas-mneumann/
