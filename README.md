@@ -30,9 +30,6 @@
 <a href="https://github.com/neumann-mlucas/neumann-mlucas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neumann-mlucas&hide=shell,html&line_height=32" />
 </a>
-<a href="https://github.com/neumann-mlucas/neumann-mlucas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neumann-mlucas&show_icons=true&line_height=33&custom_title=Lucas's GitHub Stats&include_all_commits=true  alt="Lucas's GitHub Stats" />
-</a>
 
 ## :mailbox: Where to find me
 - <img src=https://raw.githubusercontent.com/neumann-mlucas/neumann-mlucas/master/linkedin.svg width="20px"> [Linkdin](https://www.linkedin.com/in/lucas-mneumann/)
