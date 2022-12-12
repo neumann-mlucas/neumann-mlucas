@@ -1,9 +1,9 @@
 # Hello World! <img src="https://raw.githubusercontent.com/neumann-mlucas/neumann-mlucas/master/wave.gif" width="30px">
 - :earth_americas: I'm from Brazil
-- :books: I have a Msc. in Physical Chemistry
-- :telescope: I'm looking to collaborate in on Open Source in 2021
-- :seedling: I’m currently learning Data Analyasis and Functional Programming
-- :eyes: Looking for opportunities in Data Science / Programming
+- :mortar_board: I have a Msc. in Physical Chemistry (UNICAMP)
+- :seedling: I’m currently learning Go, Docker/Kubernets and Ansible
+- :thought_balloon: Tryinig Functional Programming, Generative Art and Data Visualization on my free time 
+- :eyes: Looking to collaborate to Open Source
 
 ## :wrench: Technologies & Tools
 
