@@ -3,7 +3,7 @@
 - :mortar_board: I have a Msc. in Physical Chemistry (UNICAMP)
 - :seedling: I’m currently learning Go, Docker/Kubernets and Ansible
 - :thought_balloon: Tryinig Functional Programming, Generative Art and Data Visualization on my free time 
-- :eyes: Looking to collaborate to Open Source
+- :eyes: Looking to collaborate in Open Source
 
 ## :wrench: Technologies & Tools
 
