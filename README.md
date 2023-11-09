@@ -1,9 +1,10 @@
 # Hello World! <img src="https://raw.githubusercontent.com/neumann-mlucas/neumann-mlucas/master/wave.gif" width="30px">
-- :earth_americas: I'm from Brazil
-- :mortar_board: I have a Msc. in Physical Chemistry (at UNICAMP)
+- :earth_americas: I'm a Software Engineer from Brazil
+- :mortar_board: Msc. in Computational and Theoretical Chemistry (at UNICAMP)
 - :seedling: I’m currently learning Go, Docker/Kubernets and Ansible
-- :thought_balloon: Trying Functional Programming, Generative Art and Data Visualization on my free time 
+- :thought_balloon: Currently interested in Functional Programming, Generative Art and Nix 
 - :eyes: Looking to collaborate in Open Source
+- :dark_sunglasses: 'I use arch by the way'
 
 ## :wrench: Technologies & Tools
 
