@@ -4,7 +4,7 @@
 - :seedling: I’m currently learning Go, Docker/Kubernets and Ansible
 - :thought_balloon: Currently interested in Functional Programming, Generative Art and Nix 
 - :eyes: Looking to collaborate in Open Source
-- :dark_sunglasses: 'I use arch by the way'
+- :sunglasses: "When I'm not Working I'm ___": speending too much time editing my dotfiles
 
 ## :wrench: Technologies & Tools
 
