@@ -2,9 +2,9 @@
 - :earth_americas: I'm a Software Engineer from Brazil
 - :mortar_board: Msc. in Computational and Theoretical Chemistry (at UNICAMP)
 - :seedling: I’m currently learning Go, Docker/Kubernets and Ansible
-- :thought_balloon: Currently interested in Functional Programming, Generative Art and Nix 
+- :thought_balloon: Currently interested in Functional Programming, Generative Art and NixOs 
 - :eyes: Looking to collaborate in Open Source
-- :beach_umbrella: "When I'm not Working I'm ___": speending too much time editing my dotfiles
+- :beach_umbrella: "When I'm not Working I'm ___": speending way too much time editing my dotfiles
 
 ## :wrench: Technologies & Tools
 
@@ -13,6 +13,8 @@
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/bdge/-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
@@ -24,7 +26,6 @@
 - **Learning:**
 
 ![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=Haskell&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 
 ## :chart_with_upwards_trend: GitHub Stats
 
