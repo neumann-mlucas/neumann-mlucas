@@ -17,8 +17,11 @@
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Polars-informational?style=flat&logo=polars&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
@@ -29,7 +32,7 @@
 ## :chart_with_upwards_trend: GitHub Stats
 
 <a href="https://github.com/neumann-mlucas/neumann-mlucas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neumann-mlucas&hide=shell,html&line_height=32" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neumann-mlucas&hide=shell,html&line_height=32&theme=transparent" />
 </a>
 
 ## :mailbox: Where to find me
