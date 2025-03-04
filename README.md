@@ -1,8 +1,8 @@
 # Hello World! <img src="https://raw.githubusercontent.com/neumann-mlucas/neumann-mlucas/master/wave.gif" width="30px">
-- :earth_americas: I'm a Software Engineer from Brazil
+- :earth_americas: I am a Software Engineer from Brazil, currently working in the Financial Sector
 - :mortar_board: Msc. in Computational and Theoretical Chemistry (at UNICAMP)
 - :seedling: I’m currently learning Go, Docker/Kubernets and Ansible
-- :thought_balloon: Currently interested in Functional Programming, Generative Art and NixOs 
+- :thought_balloon: Currently interested in Functional Programming, Generative Art and UNIX 
 - :eyes: Looking to collaborate in Open Source
 - :beach_umbrella: "When I'm not Working I'm ___": speending way too much time editing my dotfiles
 
@@ -15,13 +15,11 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Polars-informational?style=flat&logo=polars&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
