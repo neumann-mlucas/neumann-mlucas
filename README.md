@@ -1,8 +1,8 @@
 # Hello World! <img src="https://raw.githubusercontent.com/neumann-mlucas/neumann-mlucas/master/wave.gif" width="30px">
-- :earth_americas: I am a Software Engineer from Brazil, currently working in the Financial Sector
+- :earth_americas: I am a Software Engineer from Brazil, currently working in the Financial Space
 - :mortar_board: Msc. in Computational and Theoretical Chemistry (at UNICAMP)
 - :seedling: I’m currently learning Go, Docker/Kubernets and Ansible
-- :thought_balloon: Currently interested in Functional Programming, Generative Art and UNIX 
+- :thought_balloon: Currently interested in Functional Programming, Generative Art and Distributed System 
 - :eyes: Looking to collaborate in Open Source
 - :beach_umbrella: "When I'm not Working I'm ___": speending way too much time editing my dotfiles
 
