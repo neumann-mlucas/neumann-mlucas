@@ -4,15 +4,11 @@ Backend engineer working where finance meets infrastructure. By day I keep prici
 
 I came in sideways: my MSc was protein simulations on HPC clusters, and at some point the code got more interesting than the chemistry.
 
-```go
-var lucas = Engineer{
-    Base:     "São Paulo, BR (remote / relocation welcome)",
-    DayJob:   []string{"pricing", "risk", "market data", "AI-agent tooling"},
-    Stack:    []string{"Python", "Go", "SQL", "Airflow", "Kubernetes", "AWS"},
-    ForFun:   []string{"Rust", "Julia", "Haskell", "Neovim plugins", "generative art"},
-    Previous: []string{"Bank of America (FICC EM)", "Apex Capital", "MSc Physical Chemistry @ UNICAMP"},
-}
-```
+Based in São Paulo, open to remote or relocation. Work is mostly Python, Go and SQL on Airflow, Kubernetes and AWS. Before that: Bank of America (FICC Emerging Markets) and a hedge fund, Apex Capital.
+
+Off the clock it's Rust, Julia and the occasional Haskell, all written in Neovim, which I configure more than I should and sometimes write plugins for.
+
+Daily driver: Arch + Hyprland + Ghostty + Neovim, all of it in [dotfiles](https://github.com/neumann-mlucas/dotfiles).
 
 #### Things I build for fun
 
