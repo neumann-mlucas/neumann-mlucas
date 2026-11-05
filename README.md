@@ -1,4 +1,4 @@
-### Hi, I'm Lucas
+### hello, world
 
 Backend engineer working where finance meets infrastructure. By day I keep pricing and risk systems honest: Bloomberg MARS pipelines, real-time market-data and curve services, and Go + MCP tooling that lets LLM agents poke at production data without breaking anything.
 
