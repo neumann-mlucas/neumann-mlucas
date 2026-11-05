@@ -1,47 +1,30 @@
-# Hello World! <img src="https://raw.githubusercontent.com/neumann-mlucas/neumann-mlucas/master/wave.gif" width="30px">
-- :earth_americas: I am a Software Engineer from Brazil, currently working in the Financial Space
-- :mortar_board: Msc. in Computational and Theoretical Chemistry (at UNICAMP)
-- :seedling: I’m currently learning Go, Docker/Kubernets and Ansible
-- :thought_balloon: Currently interested in Functional Programming, Generative Art and Distributed System 
-- :eyes: Looking to collaborate in Open Source
-- :beach_umbrella: "When I'm not Working I'm ___": speending way too much time editing my dotfiles
+### Hi, I'm Lucas
 
-## :wrench: Technologies & Tools
+Backend engineer working where finance meets infrastructure. By day I keep pricing and risk systems honest: Bloomberg MARS pipelines, real-time market-data and curve services, and Go + MCP tooling that lets LLM agents poke at production data without breaking anything.
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/bdge/-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Polars-informational?style=flat&logo=polars&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+I came in sideways: my MSc was protein simulations on HPC clusters, and at some point the code got more interesting than the chemistry.
 
-- **Learning:**
+```go
+var lucas = Engineer{
+    Base:     "São Paulo, BR (remote / relocation welcome)",
+    DayJob:   []string{"pricing", "risk", "market data", "AI-agent tooling"},
+    Stack:    []string{"Python", "Go", "SQL", "Airflow", "Kubernetes", "AWS"},
+    ForFun:   []string{"Rust", "Julia", "Haskell", "Neovim plugins", "generative art"},
+    Previous: []string{"Bank of America (FICC EM)", "Apex Capital", "MSc Physical Chemistry @ UNICAMP"},
+}
+```
 
-![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=Haskell&logoColor=white&color=2bbc8a) 
+#### Things I build for fun
 
-## :chart_with_upwards_trend: GitHub Stats
+- [**git-archaeologist**](https://github.com/neumann-mlucas/git-archaeologist) (Rust): digs time series out of any git repo, like LOC, cohort survival, coupling and hotspots.
+- [**ragwatcher**](https://github.com/neumann-mlucas/ragwatcher) (Python): local, incremental RAG over a folder, served as an MCP tool.
+- [**StringArt.jl**](https://github.com/neumann-mlucas/StringArt.jl) and [**MonteCarloArt.jl**](https://github.com/neumann-mlucas/MonteCarloArt.jl) (Julia): turn photos into string art and pointillism.
+- [**snacks-lexicon.nvim**](https://github.com/neumann-mlucas/snacks-lexicon.nvim) (Lua): dictionary and thesaurus lookups without leaving Neovim.
+- **visidata-rs** (Rust, WIP): rebuilding a terminal data explorer on Polars + Ratatui, scriptable in Lua.
+- Advent of Code in [Haskell](https://github.com/neumann-mlucas/advent_of_code_2020), [Go](https://github.com/neumann-mlucas/advent_of_code_2023) and [Julia](https://github.com/neumann-mlucas/advent_of_code_2024).
 
-<a href="https://github.com/neumann-mlucas/neumann-mlucas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neumann-mlucas&hide=shell,html&line_height=32&theme=transparent" />
-</a>
+#### CV
 
-## :mailbox: Where to find me
-- <img src=https://raw.githubusercontent.com/neumann-mlucas/neumann-mlucas/master/linkedin.svg width="20px"> [Linkdin](https://www.linkedin.com/in/lucas-mneumann/)
-- <img src=https://raw.githubusercontent.com/neumann-mlucas/neumann-mlucas/master/instagram.svg width="20px"> [Instagram](https://www.instagram.com/neumannlucas/)
-- <img src=https://raw.githubusercontent.com/neumann-mlucas/neumann-mlucas/master/telegram.svg width="20px"> @LucasNeumann
+[web](https://neumann-mlucas.github.io/cv) · PDF [EN](https://github.com/neumann-mlucas/cv/raw/main/pdf/cv-en-tech.pdf) / [PT](https://github.com/neumann-mlucas/cv/raw/main/pdf/cv-pt-tech.pdf) · [LinkedIn](https://www.linkedin.com/in/lucas-mneumann/)
 
----
-
-> "Software is like sex: it's better when it's free" - Linus Torvalds
-
-<!--
-**neumann-mlucas/neumann-mlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![HitCount](http://hits.dwyl.com/neumann-mlucas/neumann-mlucas.svg)](http://hits.dwyl.com/neumann-mlucas/neumann-mlucas)
+Generated from one YAML file with Typst; the source is in [neumann-mlucas/cv](https://github.com/neumann-mlucas/cv).
