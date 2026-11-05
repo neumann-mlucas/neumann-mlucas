@@ -4,7 +4,24 @@ Backend engineer working where finance meets infrastructure. By day I keep prici
 
 I came in sideways: my MSc was protein simulations on HPC clusters, and at some point the code got more interesting than the chemistry.
 
-Based in São Paulo, open to remote or relocation. Work is mostly Python, Go and SQL on Airflow, Kubernetes and AWS. Before that: Bank of America (FICC Emerging Markets) and a hedge fund, Apex Capital.
+```fortran
+      PROGRAM LUCAS
+C     NO DERIVED TYPES IN 1977, SO PARALLEL ARRAYS IN A COMMON BLOCK.
+      CHARACTER*48 BASE
+      CHARACTER*16 JOB(4), STACK(6), FUN(5)
+      CHARACTER*25 PREV(3)
+      COMMON /ENGR/ BASE, JOB, STACK, FUN, PREV
+      DATA BASE /'SAO PAULO, BR (REMOTE / RELOCATION OK)'/
+      DATA JOB /'PRICING', 'RISK', 'MARKET DATA', 'AI-AGENT TOOLING'/
+      DATA STACK /'PYTHON', 'GO', 'SQL', 'AIRFLOW',
+     &            'KUBERNETES', 'AWS'/
+      DATA FUN /'RUST', 'JULIA', 'HASKELL', 'NEOVIM PLUGINS',
+     &          'GENERATIVE ART'/
+      DATA PREV /'BANK OF AMERICA (FICC EM)', 'APEX CAPITAL',
+     &           'MSC PHYS. CHEM. @ UNICAMP'/
+      WRITE (*,'(A)') BASE
+      END
+```
 
 Off the clock it's Rust, Julia and the occasional Haskell, all written in Neovim, which I configure more than I should and sometimes write plugins for.
 
