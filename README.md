@@ -24,7 +24,7 @@ Daily driver: Arch + Hyprland + Ghostty + Neovim, all of it in [dotfiles](https:
 - [**ragwatcher**](https://github.com/neumann-mlucas/ragwatcher) (Python): local, incremental RAG over a folder, served as an MCP tool.
 - [**StringArt.jl**](https://github.com/neumann-mlucas/StringArt.jl) and [**MonteCarloArt.jl**](https://github.com/neumann-mlucas/MonteCarloArt.jl) (Julia): turn photos into string art and pointillism.
 - [**snacks-lexicon.nvim**](https://github.com/neumann-mlucas/snacks-lexicon.nvim) (Lua): dictionary and thesaurus lookups without leaving Neovim.
-- **visidata-rs** (Rust, WIP): rebuilding a terminal data explorer on Polars + Ratatui, scriptable in Lua.
+- [**visidata-rs**](https://github.com/neumann-mlucas/visidata-rs) (Rust, WIP): rebuilding a terminal data explorer on Polars + Ratatui, scriptable in Lua.
 - Advent of Code in [Haskell](https://github.com/neumann-mlucas/advent_of_code_2020), [Go](https://github.com/neumann-mlucas/advent_of_code_2023) and [Julia](https://github.com/neumann-mlucas/advent_of_code_2024).
 
 #### CV
